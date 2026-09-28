@@ -3,6 +3,8 @@
 
 (before you ask me, yes I had AI rephrase it because I write like I'm analphabetic)
 
+This is a community knowledge base, so feel free to add more stuff
+
 <section>
   <h2>Social Graph &amp; Relationships</h2>
   <ul>
