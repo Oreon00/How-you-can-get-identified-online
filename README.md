@@ -1,7 +1,6 @@
 <img width="220" height="175" alt="linux-opsec" src="https://github.com/user-attachments/assets/48d6669b-eae9-4165-97ad-e858bc3a31da" />
 
-Okay I'll just jump straight to what can make you easily identifiable:
-(And before you ask me, yes I had AI rephrase it because I write like I'm analphabetic)
+(before you ask me, yes I had AI rephrase it because I write like I'm analphabetic)
 
 <section>
   <h2>Social Graph &amp; Relationships</h2>
