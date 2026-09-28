@@ -1,8 +1,7 @@
 <img width="220" height="175" alt="linux-opsec" src="https://github.com/user-attachments/assets/48d6669b-eae9-4165-97ad-e858bc3a31da" />
 
 Okay I'll just jump straight to what can make you easily identifiable:
-
-<!-- Social Graph & Relationships -->
+(And before you ask me, yes I had AI rephrase it because I write like I'm analphabetic)
 
 <section>
   <h2>Social Graph &amp; Relationships</h2>
@@ -23,8 +22,6 @@ Okay I'll just jump straight to what can make you easily identifiable:
   </ul>
 </section>
 
-<!-- Financial & Transactional Information -->
-
 <section>
   <h2>Financial &amp; Transactional Information</h2>
   <ul>
@@ -42,8 +39,6 @@ Okay I'll just jump straight to what can make you easily identifiable:
     <li>Repeated purchasing patterns</li>
   </ul>
 </section>
-
-<!-- Email Information -->
 
 <section>
   <h2>Email Information</h2>
@@ -90,8 +85,6 @@ Okay I'll just jump straight to what can make you easily identifiable:
   </ul>
 </section>
 
-<!-- Behavioral Patterns -->
-
 <section>
   <h2>Behavioral Patterns</h2>
   <ul>
@@ -121,8 +114,6 @@ Okay I'll just jump straight to what can make you easily identifiable:
     <li>Social graph</li>
   </ul>
 </section>
-
-<!-- Accidental Information Exposure -->
 
 <section>
   <h2>Accidental Information Exposure</h2>
@@ -155,5 +146,3 @@ Okay I'll just jump straight to what can make you easily identifiable:
     <li>Repeated pseudonyms</li>
   </ul>
 </section>
-
-And before you ask me, yes I had AI rephrase it because I write like I'm analphabetic
