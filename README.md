@@ -1,5 +1,7 @@
 <img width="220" height="175" alt="linux-opsec" src="https://github.com/user-attachments/assets/48d6669b-eae9-4165-97ad-e858bc3a31da" />
 
+<img width="220" height="231" alt="mr-robot-print" src="https://github.com/user-attachments/assets/437b0aff-7827-44c5-bf8c-c13e15a5f779" />
+
 (before you ask me, yes I had AI rephrase it because I write like I'm analphabetic)
 
 <section>
