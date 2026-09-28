@@ -155,3 +155,5 @@ Okay I'll just jump straight to what can make you easily identifiable:
     <li>Repeated pseudonyms</li>
   </ul>
 </section>
+
+And before you ask me, yes I had AI rephrase it because I write like I'm analphabetic
