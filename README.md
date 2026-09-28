@@ -121,3 +121,37 @@ Okay I'll just jump straight to what can make you easily identifiable:
     <li>Social graph</li>
   </ul>
 </section>
+
+<!-- Accidental Information Exposure -->
+
+<section>
+  <h2>Accidental Information Exposure</h2>
+
+  <ul>
+    <li>Screenshot notifications</li>
+    <li>Browser tabs</li>
+    <li>Email addresses visible in screenshots</li>
+    <li>Real names in file paths</li>
+    <li>Computer usernames</li>
+    <li>Discord IDs</li>
+    <li>GitHub usernames</li>
+    <li>Internal IP addresses</li>
+    <li>Hostnames</li>
+    <li>GPS metadata</li>
+    <li>Document metadata</li>
+    <li>School/work logos</li>
+    <li>Reflections in photographs</li>
+    <li>Background landmarks</li>
+    <li>Apartment/building numbers</li>
+    <li>License plates</li>
+    <li>Receipts</li>
+    <li>Shipping labels</li>
+    <li>Time displayed on a screen</li>
+    <li>Local weather</li>
+    <li>Unique possessions</li>
+    <li>Rare hobbies</li>
+    <li>Events attended</li>
+    <li>Distinctive handwriting</li>
+    <li>Repeated pseudonyms</li>
+  </ul>
+</section>
